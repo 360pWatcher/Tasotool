@@ -1,7 +1,7 @@
 # Tasotool
 
 Tasotool is a lightweight, native Android sum ledger app designed for rapid numerical entry and real-time calculations. It's a port of the original  [website](https://360pwatcher.github.io/Tasotool/), optimized for mobile efficiency.
-
+## Web Version : https://360pwatcher.github.io/Tasotool/
 ## Features
 - **Fast Entry:** Custom virtual keyboard designed for numerical data entry without obscuring the list.
 - **Real-time Sums:** Automatically calculates totals as you type.
